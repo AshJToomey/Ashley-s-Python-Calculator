@@ -20,11 +20,12 @@ Tkinter is part of the Python standard library, so no additional packages are ne
 
 1. 
 Clone the repository or download the script:
-   bash
-   git clone https://github.com/yourusername/ashley-calculator.git
-   cd ashley-calculator
+
+git clone https://github.com/yourusername/ashley-calculator.git
+
+cd ashley-calculator
    
-2. Run the Python script:
+3. Run the Python script:
  
 python calculator_gui.py
 
