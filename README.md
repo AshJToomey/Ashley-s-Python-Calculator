@@ -25,9 +25,9 @@ git clone https://github.com/yourusername/ashley-calculator.git
 
 cd ashley-calculator
    
-3. Run the Python script:
+2. Run the Python script:
  
-python calculator_gui.py
+ python calculator_gui.py
 
 ## 🧮 Example Usage
 1. Enter the first and second numbers.
